@@ -1,0 +1,1 @@
+Please enter your OpenWeatherMap API key in app/build.gradle, Google App ID in string.xml of 'app' and 'wear' module and your GCM Sender ID in string.xml of 'wear' module
